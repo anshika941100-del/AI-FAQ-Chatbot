@@ -66,18 +66,6 @@ AI-FAQ-Chatbot/
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-![Home Page](screenshots/homepage.png)
-
-### Chatbot Response
-
-![Chatbot Response](screenshots/chatbot_answer.png)
-
----
-
 ## ▶️ Installation & Execution
 
 Install dependencies:
