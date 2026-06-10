@@ -58,11 +58,9 @@ AI-FAQ-Chatbot/
 
 ├── README.md
 
-└── screenshots/
-
-    ├── homepage.png
-
-    └── chatbot_answer.png
+├── homepage.png
+    
+└── chatbot_answer.png
 
 ---
 
@@ -75,6 +73,18 @@ pip install -r requirements.txt
 Run the application:
 
 streamlit run app.py
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](homepage.png)
+
+### 💬 Chatbot Response
+
+![Chatbot Response](chatbot_answer.png)
 
 ---
 
