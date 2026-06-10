@@ -58,10 +58,6 @@ AI-FAQ-Chatbot/
 
 ├── README.md
 
-├── homepage.png
-    
-└── chatbot_answer.png
-
 ---
 
 ## ▶️ Installation & Execution
